@@ -1,5 +1,5 @@
-TypeScript Puppeteer Demo
-=======================================
+TypeScript Puppeteer Set Request Interception Demo
+==================================================
 
 ```
 npm install -g puppeteer
